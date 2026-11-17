@@ -66,4 +66,4 @@ Some nouns form plurals differently; we will deal with those later. For now, use
 
 Complete [Lesson 1 exercises](01_articles_and_gender_exercises.md) without looking up answers. They deliberately focus on **noun phrases**, not full sentences, because verbs have not been introduced yet.
 
-In [Lesson 2](../a1/02_etre_and_avoir.md) (to be created next), we'll study subject pronouns, **être** and **avoir**, and construct complete sentences.
+In Lesson 2 (not yet created), we'll study subject pronouns, **être** and **avoir**, and construct complete sentences.

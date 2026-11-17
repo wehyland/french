@@ -1,40 +1,49 @@
 # A1 Lesson 1 — Exercises: articles and gender
 
-**Lesson:** [Articles and grammatical gender](01_articles_and_gender.md)
+**Lesson:** [Nouns, articles, and grammatical gender](01_articles_and_gender.md)
 
-Complete the questions without looking up the answers, if possible. Send **numbered answers 1–18** in chat. Hints about gender are supplied where needed. There is no answer key in this file.
+**Instructions:** Complete the questions without consulting the lesson if possible. Send your answers numbered **1–18** in chat. All questions test material introduced in Lesson 1. There is no answer key in this file.
 
-## A. Choose the correct article
-Write only the missing article.
+## A. Supply the article
+
+Write **only** the missing article. For indefinite articles, “a/an” means singular and “some” means plural.
 
 1. ___ livre (a book; masculine)
 2. ___ maison (a house; feminine)
 3. ___ tables (the tables)
-4. ___ ami (the friend; masculine singular)
+4. ___ ami (the male friend; singular)
 5. ___ école (a school; feminine)
 6. ___ livres (some books)
 
 ## B. Change the number
-Rewrite the whole noun phrase.
 
-7. `le livre` → definite plural
-8. `une table` → indefinite plural
-9. `les maisons` → definite singular
-10. `un ami` → indefinite plural
+Rewrite the whole phrase, not just its article.
+
+7. **le livre** → definite plural
+8. **une table** → indefinite plural
+9. **les maisons** → definite singular
+10. **un ami** → indefinite plural
 
 ## C. Translate into French
+
+Use the nouns listed in the lesson, except where an article is specified.
+
 11. the book
 12. a table
-13. the schools
-14. some friends (male or mixed group)
-15. the female friend (singular)
+13. the schools (*une école*)
+14. some male friends (*un ami*)
+15. the female friend (*une amie*)
 
-## D. Original sentence production
-16. Write “The book is on the table.” (You may use `est` = is, `sur` = on.)
-17. Write “I have a house.” (You may use `j'ai` = I have.)
-18. Write two noun phrases with different articles and give their English meanings.
+## D. Make your own noun phrases
+
+16. Write a phrase meaning **the houses** (use *une maison*).
+17. Write a phrase meaning **a female friend** (use *une amie*), then change it to **the female friend**.
+18. Write **two different French noun phrases** using two different nouns from the lesson and two different articles. Give their English translations.
 
 ## Check before submitting
-Have you marked singular/plural correctly? Do you need **l’** before a vowel sound? Does the article match the noun's gender?
+- Did you choose the correct gender for singular nouns?
+- Did you use plural articles with plural nouns?
+- Did you change **le/la** to **l’** when appropriate?
+- Did you keep **un/une** before a vowel?
 
-Your tutor will correct every answer and record any demonstrated strengths or difficulties in `progress.md`.
+Send the 18 numbered answers for feedback. Your tutor will distinguish mistakes from acceptable alternatives and update `progress.md` after reviewing your work.

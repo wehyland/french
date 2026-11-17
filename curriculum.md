@@ -1,62 +1,64 @@
 # French grammar curriculum
 
-A flexible sequence of grammar lessons and cumulative exercises, rather than a fixed timetable or guarantee of a CEFR rating. Start at **A1 Lesson 1**; the learner is a complete beginner and does not require a diagnostic.
+This is a flexible, beginner-first sequence of **grammar** lessons, not an official CEFR test. The learner is a complete beginner; **no diagnostic assessment is needed**.
 
-Each lesson has a separate Markdown exercise file. After reviewing answers, record performance in `progress.md`.
+Each new lesson gets two Markdown files: an explanation and a separate exercise set. The tutor grades submitted answers, updates `progress.md`, and assigns cumulative review where needed. Do not create future lesson files automatically without being asked to proceed.
 
 ## A1 — Foundations
-1. Articles, nouns and grammatical gender
-2. Être and avoir; simple statements
-3. Regular -er verbs in the present
-4. Frequent irregular verbs in the present
-5. Negation
-6. Questions
-7. Adjectives: agreement and position
+1. Nouns, articles, grammatical gender, regular plurals
+2. Subject pronouns, **être** and **avoir**, basic statements
+3. Regular **-er** verbs in the present
+4. Common irregular present-tense verbs
+5. Negation with **ne ... pas**
+6. Basic questions (intonation and **est-ce que**)
+7. Adjective agreement and position
 8. Possessive and demonstrative determiners
-9. Basic prepositions and contractions
-10. Partitives and quantities
-11. Reflexive verbs and daily routines
-12. Near future and imperative; cumulative review
+9. Essential prepositions and **à/de** contractions
+10. Partitive articles and quantities
+11. Reflexive verbs and everyday routines
+12. Near future (**aller + infinitive**), imperative, A1 review
 
 ## A2 — Describing and narrating
-1. Passé composé with avoir
-2. Passé composé with être
-3. Imparfait and past-tense contrasts
+1. **Passé composé** with **avoir**
+2. **Passé composé** with **être**
+3. **Imparfait** and contrast with **passé composé**
 4. Future simple
 5. Direct-object pronouns
 6. Indirect-object pronouns
-7. Pronoun order
-8. Comparisons
-9. Relative pronouns qui, que, où
-10. More negation and quantities
-11. Conjunctions and connected sentences
-12. Cumulative review and short narrative
+7. Common pronoun combinations
+8. Comparatives and superlatives
+9. Relative pronouns **qui**, **que**, **où**
+10. Further negation and quantities
+11. Linking ideas with conjunctions
+12. Mixed review and short narrative
 
-## B1 — Nuance and hypothetical situations
+## B1 — Nuance and hypotheticals
 1. Conditional present
-2. Si clauses
-3. Plus-que-parfait
-4. Y and en
-5. Relative pronoun dont
-6. Subjunctive forms
-7. Subjunctive uses
+2. **Si** clauses
+3. **Plus-que-parfait**
+4. Pronouns **y** and **en**
+5. Relative pronoun **dont**
+6. Subjunctive present: forms
+7. Subjunctive: major uses
 8. Reported speech
-9. Passive voice
-10. Purpose, cause and concession
-11. More complex pronouns
-12. Cumulative review
+9. Passive voice and alternatives
+10. Expressing purpose, cause, and concession
+11. Complex pronoun placement
+12. Mixed review
 
-## B2 — Accuracy, register and style
+## B2 — Accuracy, register, style
 1. Subjunctive vs indicative
 2. Tense relationships in narration
 3. Past conditional and counterfactuals
-4. Complex clauses and relative constructions
-5. Spoken vs written register
+4. Complex relative clauses
+5. Differences between spoken and written French
 6. Emphasis and inversion
-7. Advanced negation
+7. Advanced negation and restriction
 8. Argumentation and qualification
-9. Editing for idiomatic expression
-10. Cumulative writing and review
+9. Editing for idiomatic constructions
+10. Integrated writing and review
 
-## Pedagogy
-Each lesson: explanation, examples, guided practice, independent production, correction, cumulative review. Progress is adapted based on learner performance. No comparisons to Spanish.
+## Advancement
+Progress is evaluated through **comprehension**, **controlled application**, **independent production**, and **retention when mixed with earlier material**. Lessons may be split, revisited, or combined based on evidence. A1/B2 section labels describe the instructional organization, not the learner's certified proficiency.
+
+Pronunciation and listening should also be practiced alongside grammar; the grammar syllabus alone is not a complete language-learning program.

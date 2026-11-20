@@ -1,0 +1,28 @@
+{
+  "voice": "Thomas",
+  "locale": "fr_FR",
+  "rate_wpm": 140,
+  "duration_seconds": {
+    "fr-time-ask-time-thomas.wav": 2.276,
+    "fr-time-no-watch-thomas.wav": 1.438,
+    "fr-time-think-thomas.wav": 1.09,
+    "fr-time-time-thomas.wav": 1.355,
+    "fr-time-appointment-thomas.wav": 1.566,
+    "fr-time-wife-thomas.wav": 2.042,
+    "fr-time-late-thomas.wav": 2.399,
+    "fr-time-reply-thomas.wav": 3.261,
+    "fr-time-know-thomas.wav": 1.633,
+    "fr-time-reason-thomas.wav": 2.914,
+    "fr-time-hour-thomas.wav": 0.751,
+    "fr-time-watch-thomas.wav": 0.867,
+    "fr-time-woman-thomas.wav": 0.913,
+    "fr-time-meeting-thomas.wav": 0.96,
+    "fr-time-minute-thomas.wav": 1.006,
+    "fr-time-noon-thomas.wav": 0.75,
+    "fr-time-because-thomas.wav": 0.918,
+    "fr-time-always-thomas.wav": 0.878,
+    "fr-time-gap-de-thomas.wav": 1.438,
+    "fr-time-gap-at-thomas.wav": 1.566,
+    "fr-time-gap-delay-thomas.wav": 1.947
+  }
+}
